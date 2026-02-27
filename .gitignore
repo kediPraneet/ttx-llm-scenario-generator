@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Configuration and Secrets
+.streamlit/secrets.toml
+.env
+
+# System Files
+.DS_Store
+
+.env
